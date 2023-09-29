@@ -37,7 +37,7 @@ This is a blog website developed using Flask, a Python web framework. The projec
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/blog-website.git
+git clone https://github.com/ozesince02/Blog-Website-Flask.git
 ```
 
 2. Create a virtual environment and activate it.
