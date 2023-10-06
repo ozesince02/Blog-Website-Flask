@@ -1,4 +1,4 @@
-# Blog Website with Flask
+# Wanna Talk About It - Blog Website with Flask
 
 This is a blog website developed using Flask, a Python web framework. The project allows users to create, read, update, and delete blog posts, as well as register, log in, and comment on posts. The frontend of the website was provided by my course instructor Angela Yu, while the backend functionality was implemented by me.
 
